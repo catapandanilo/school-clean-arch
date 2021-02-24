@@ -22,16 +22,16 @@ public class Student {
 		this.phones.add(new Phone(ddd, number));
 	}
 
-	public CPF getCpf() {
-		return cpf;
+	public String getCpf() {
+		return cpf.getNumber();
 	}
 
 	public String getName() {
 		return name;
 	}
 
-	public Email getEmail() {
-		return email;
+	public String getEmail() {
+		return email.getAddress();
 	}
 
 	public List<Phone> getPhones() {

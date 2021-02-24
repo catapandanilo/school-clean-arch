@@ -11,4 +11,8 @@ public class Email {
 	}
 
 	private String address;
+
+	public String getAddress() {
+		return address;
+	}
 }

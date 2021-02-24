@@ -12,4 +12,8 @@ public class CPF {
 
 	private String number;
 
+	public String getNumber() {
+		return number;
+	}
+
 }
