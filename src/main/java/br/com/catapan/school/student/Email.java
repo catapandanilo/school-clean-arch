@@ -1,4 +1,4 @@
-package school;
+package br.com.catapan.school.student;
 
 public class Email {
 

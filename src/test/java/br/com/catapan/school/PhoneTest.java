@@ -1,8 +1,10 @@
-package school;
+package br.com.catapan.school;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import br.com.catapan.school.student.Phone;
 
 class PhoneTest {
 
