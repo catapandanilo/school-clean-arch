@@ -8,10 +8,9 @@ public class Student {
 	private CPF cpf;
 	private String name;
 	private Email email;
+	private String password;
 	private List<Phone> phones = new ArrayList<>();
-	
-	
-	
+
 	public Student(CPF cpf, String name, Email email) {
 		this.cpf = cpf;
 		this.name = name;
@@ -37,6 +36,5 @@ public class Student {
 	public List<Phone> getPhones() {
 		return phones;
 	}
-	
-	
+
 }
