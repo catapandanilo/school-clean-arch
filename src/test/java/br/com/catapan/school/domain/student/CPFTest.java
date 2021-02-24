@@ -1,4 +1,4 @@
-package br.com.catapan.school;
+package br.com.catapan.school.domain.student;
 
 import static org.junit.jupiter.api.Assertions.*;
 

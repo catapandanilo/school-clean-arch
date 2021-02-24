@@ -1,8 +1,8 @@
-package br.com.catapan.school.recommendation;
+package br.com.catapan.school.domain.recommendation;
 
 import java.time.LocalDateTime;
 
-import br.com.catapan.school.student.Student;
+import br.com.catapan.school.domain.student.Student;
 
 public class Recommendation {
 

@@ -1,4 +1,4 @@
-package br.com.catapan.school.student;
+package br.com.catapan.school.domain.student;
 
 public class FactoryStudent {
 	private Student student;
