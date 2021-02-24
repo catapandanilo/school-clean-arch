@@ -9,7 +9,7 @@ public class Recommendation {
 	private Student indicated;
 	private Student indicator;
 	private LocalDateTime dateRecommendation;
-	
+
 	public Recommendation(Student indicated, Student indicator) {
 		this.indicated = indicated;
 		this.indicator = indicator;
