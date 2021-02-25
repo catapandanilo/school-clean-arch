@@ -1,4 +1,4 @@
-package br.com.catapan.school.application;
+package br.com.catapan.school.application.recommendation;
 
 import br.com.catapan.school.domain.student.Student;
 
